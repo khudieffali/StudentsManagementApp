@@ -11,6 +11,7 @@ namespace Entities
         public string FirstName { get; set; } = null!;
         public string LastName { get; set; } = null!;
         public string? Description { get; set; }
+        public string? Interests { get; set; }
         public string? FatherName { get; set; }
         public string? Address { get; set; }
         public string? PhoneNumber { get; set; }

@@ -15,8 +15,8 @@ namespace DataAccess
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=SQL5104.site4now.net;Initial Catalog=db_a4f2ac_comparstudentform;User Id=db_a4f2ac_comparstudentform_admin;Password=Compar2019");
-                //optionsBuilder.UseSqlServer("Data Source=HOME-PC;Initial Catalog=ComparDB2;Integrated Security=true");
+                //optionsBuilder.UseSqlServer("Data Source=SQL5104.site4now.net;Initial Catalog=db_a4f2ac_comparstudentform;User Id=db_a4f2ac_comparstudentform_admin;Password=Compar2019");
+                optionsBuilder.UseSqlServer("Data Source=HOME-PC;Initial Catalog=ComparDB2;Integrated Security=true");
 
             }
         }

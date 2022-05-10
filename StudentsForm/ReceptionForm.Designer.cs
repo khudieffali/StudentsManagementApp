@@ -82,6 +82,8 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.txtPhoneSearch = new System.Windows.Forms.TextBox();
             this.lblPhone = new System.Windows.Forms.Label();
+            this.lblLastNameSearch = new System.Windows.Forms.Label();
+            this.txtLastNameSearch = new System.Windows.Forms.TextBox();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pckBack)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtgStudentList)).BeginInit();
@@ -507,7 +509,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(3, 2);
+            this.label7.Location = new System.Drawing.Point(3, 3);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(37, 28);
             this.label7.TabIndex = 0;
@@ -523,7 +525,7 @@
             this.panel2.Controls.Add(this.nmPayAmount);
             this.panel2.Controls.Add(this.cmbStudent);
             this.panel2.Controls.Add(this.pckBackPayment);
-            this.panel2.Location = new System.Drawing.Point(9, 90);
+            this.panel2.Location = new System.Drawing.Point(15, 91);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(888, 289);
             this.panel2.TabIndex = 24;
@@ -692,13 +694,35 @@
             this.lblPhone.TabIndex = 25;
             this.lblPhone.Text = "Nömrə ilə axtarış :";
             // 
+            // lblLastNameSearch
+            // 
+            this.lblLastNameSearch.AutoSize = true;
+            this.lblLastNameSearch.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblLastNameSearch.ForeColor = System.Drawing.Color.White;
+            this.lblLastNameSearch.Location = new System.Drawing.Point(555, 279);
+            this.lblLastNameSearch.Name = "lblLastNameSearch";
+            this.lblLastNameSearch.Size = new System.Drawing.Size(162, 28);
+            this.lblLastNameSearch.TabIndex = 25;
+            this.lblLastNameSearch.Text = "Soyad ilə axtarış :";
+            // 
+            // txtLastNameSearch
+            // 
+            this.txtLastNameSearch.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtLastNameSearch.Location = new System.Drawing.Point(555, 309);
+            this.txtLastNameSearch.Name = "txtLastNameSearch";
+            this.txtLastNameSearch.Size = new System.Drawing.Size(280, 30);
+            this.txtLastNameSearch.TabIndex = 26;
+            this.txtLastNameSearch.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtLastNameSearch_KeyUp);
+            // 
             // ReceptionForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Purple;
             this.ClientSize = new System.Drawing.Size(1249, 715);
+            this.Controls.Add(this.txtLastNameSearch);
             this.Controls.Add(this.txtPhoneSearch);
+            this.Controls.Add(this.lblLastNameSearch);
             this.Controls.Add(this.lblPhone);
             this.Controls.Add(this.btnStudentAdd);
             this.Controls.Add(this.pictureBox1);
@@ -788,5 +812,7 @@
         private Label lblPhone;
         private DateTimePicker dtPayment;
         private Label label13;
+        private Label lblLastNameSearch;
+        private TextBox txtLastNameSearch;
     }
 }

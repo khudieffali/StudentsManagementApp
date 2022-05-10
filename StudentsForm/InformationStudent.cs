@@ -31,6 +31,8 @@ namespace StudentsForm
             cmbUsers.Text = "";
             txtWhereFrom.Text = "";
             rchDescription.Text = "";
+            txtInterests.Text = "";
+            dtInformationDate.Value = DateTime.Now;
         }
         #endregion
 
@@ -72,6 +74,8 @@ namespace StudentsForm
                 Ünvan= x.Address != null ? x.Address : "Məlumat Yoxdur",
                 Telefon= x.PhoneNumber != null? x.PhoneNumber : "Məlumat Yoxdur",
                 MəlumatVerən=x.User.FullName.ToString(),
+                NəyiMaraqlanıb = x.Interests != null ? x.Interests : "Məlumat Yoxdur",
+                QeydiyyatTarixi=x.InformationDate,
                 BiziHaradaGördünüz = x.WhereFrom!=null?x.WhereFrom:"Məlumat Yoxdur",
                 Qeyd=x.Description != null?x.Description:"Məlumat yoxdur"
             }).ToList();
@@ -99,6 +103,8 @@ namespace StudentsForm
             string infoUser=cmbUsers.Text;
             string whereFrom=txtWhereFrom.Text;
             string description=rchDescription.Text;
+            string interests=txtInterests.Text;
+            DateTime informationDate = dtInformationDate.Value;
             string[] arr ={ firstName,lastName,whereFrom};
             if (Utilities.IsEmpty(arr))
             {
@@ -113,7 +119,8 @@ namespace StudentsForm
                      Address=address,
                      PhoneNumber=phoneNumber,
                      WhereFrom=whereFrom,
-                     InformationDate=DateTime.Now,
+                     Interests=interests,
+                     InformationDate=informationDate,
                      UserId=infoUserId,
                      Description=description,
                     };
@@ -144,6 +151,8 @@ namespace StudentsForm
             string infoUser = cmbUsers.Text;
             string whereFrom = txtWhereFrom.Text;
             string decription=rchDescription.Text;
+            string interests = txtInterests.Text;
+            DateTime informationDate = dtInformationDate.Value;
             string[] arr = { firstName, lastName,whereFrom };
             if (Utilities.IsEmpty(arr))
             {
@@ -158,6 +167,8 @@ namespace StudentsForm
                     infoStudent.UserId = infoUserId;
                     infoStudent.WhereFrom = whereFrom;
                     infoStudent.Description = decription;
+                    infoStudent.Interests = interests;
+                    infoStudent.InformationDate = informationDate;
                     _context.SaveChanges();
                     MessageBox.Show("Dəyişiklik uğurla saxlanıldı", "Uğurlu", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     FillInformationStudentGrid();
@@ -229,6 +240,9 @@ namespace StudentsForm
                 txtPhone.Text = infoStudent.PhoneNumber;
                 cmbUsers.Text = infoStudent.User.FullName;
                 txtWhereFrom.Text = infoStudent.WhereFrom;
+                txtInterests.Text = infoStudent.Interests;
+                dtInformationDate.Value= infoStudent.InformationDate;
+                rchDescription.Text = infoStudent.Description;
             }
             VisibileBtn("a");
         }

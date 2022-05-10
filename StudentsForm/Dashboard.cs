@@ -12,5 +12,9 @@ namespace StudentsForm
             LoginForm lg=new();
             lg.ShowDialog();
         }
+
+        private void Dashboard_Load(object sender, EventArgs e)
+        {
+        }
     }
 }

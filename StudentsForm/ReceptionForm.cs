@@ -210,7 +210,7 @@ namespace StudentsForm
             try
             {
                 
-                dtgStudentList.DataSource = _context.Students.Include(x => x.StudentGroup).ThenInclude(x => x.Specialities).Include(x => x.StudentGroup).ThenInclude(x => x.Teacher).Where(x => !x.IsDeleted && x.PhoneNumber.Contains(txtPhoneSearch.Text)).Select(x => new
+                dtgStudentList.DataSource = _context.Students.Include(x => x.StudentGroup).ThenInclude(x => x.Specialities).Include(x => x.StudentGroup).ThenInclude(x => x.Teacher).Where(x => !x.IsDeleted && x.PhoneNumber.Contains(txtPhoneSearch.Text) && x.LastName.Contains(txtLastNameSearch.Text)).Select(x => new
                 {
                     x.ID,
                     Ad = x.FirstName,
@@ -271,6 +271,8 @@ namespace StudentsForm
             btnPayment.Visible = false;
             lblPhone.Visible = false;
             txtPhoneSearch.Visible = false;
+            lblLastNameSearch.Visible = false;
+            txtLastNameSearch.Visible = false;
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
@@ -281,6 +283,8 @@ namespace StudentsForm
             btnPayment.Visible=true;
             lblPhone.Visible = true;
             txtPhoneSearch.Visible = true;
+            lblLastNameSearch.Visible = true;
+            txtLastNameSearch.Visible = true;
         }
 
         private void btnPayment_Click(object sender, EventArgs e)
@@ -291,6 +295,8 @@ namespace StudentsForm
             panel2.Visible=true;
             lblPhone.Visible=false;
             txtPhoneSearch.Visible=false;
+           lblLastNameSearch.Visible=false;
+            txtLastNameSearch.Visible=false;
            
         }
 
@@ -422,6 +428,11 @@ namespace StudentsForm
         }
 
         private void txtPhoneSearch_KeyUp(object sender, KeyEventArgs e)
+        {
+            FillStudentGrid();
+        }
+
+        private void txtLastNameSearch_KeyUp(object sender, KeyEventArgs e)
         {
             FillStudentGrid();
         }

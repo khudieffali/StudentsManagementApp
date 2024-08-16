@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3Zzwpd9QTzpIiXOavH+SfXR9ObKzbSTem53+gwuxGR0JDDIQW+0E+uRqfBvr8zVoRxzZKJWKJ1oWcuUS9p7xw==",
+  "dgSpecHash": "9EFjkOjghZwD7fcuegSh0/Vx5x6+khxNA7z0d3hUHKGGc9l52VR1DP/QheFWqpKyFPHUFkoJF5yBxFfCRdQ9Vw==",
   "success": true,
-  "projectFilePath": "D:\\Praktikant\\StudentsForm\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

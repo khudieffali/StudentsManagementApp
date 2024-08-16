@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Praktikant\\StudentsForm\\StudentsForm\\StudentsForm.csproj": {}
+    "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentsForm.csproj": {}
   },
   "projects": {
-    "D:\\Praktikant\\StudentsForm\\DataAccess\\DataAccess.csproj": {
+    "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Praktikant\\StudentsForm\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Praktikant\\StudentsForm\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Praktikant\\StudentsForm\\DataAccess\\obj\\",
+        "outputPath": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Praktikant\\StudentsForm\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Praktikant\\StudentsForm\\Entities\\Entities.csproj"
+              "D:\\Praktikant\\StudentsFormEnd\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Entities.csproj"
               }
             }
           }
@@ -38,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -71,7 +81,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,21 +91,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Praktikant\\StudentsForm\\Entities\\Entities.csproj": {
+    "D:\\Praktikant\\StudentsFormEnd\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Praktikant\\StudentsForm\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Praktikant\\StudentsForm\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Praktikant\\StudentsForm\\Entities\\obj\\",
+        "outputPath": "D:\\Praktikant\\StudentsFormEnd\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,6 +117,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,6 +130,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -125,7 +146,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -134,39 +156,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Praktikant\\StudentsForm\\StudentsForm\\StudentsForm.csproj": {
+    "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentsForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Praktikant\\StudentsForm\\StudentsForm\\StudentsForm.csproj",
+        "projectUniqueName": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentsForm.csproj",
         "projectName": "StudentsForm",
-        "projectPath": "D:\\Praktikant\\StudentsForm\\StudentsForm\\StudentsForm.csproj",
+        "projectPath": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentsForm.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Praktikant\\StudentsForm\\StudentsForm\\obj\\",
+        "outputPath": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\Praktikant\\StudentsForm\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Praktikant\\StudentsForm\\DataAccess\\DataAccess.csproj"
+              "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Praktikant\\StudentsForm\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Praktikant\\StudentsForm\\Entities\\Entities.csproj"
+              "D:\\Praktikant\\StudentsFormEnd\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Entities.csproj"
               }
             }
           }
@@ -175,6 +202,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -198,7 +230,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -210,7 +243,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

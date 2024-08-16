@@ -197,7 +197,7 @@ namespace StudentsForm
                 {
                     x.ID,
                     Ad=x.FirstName,
-                   Soyad=x.LastName,
+                    Soyad=x.LastName,
                     AtaAdı=x.FatherName != null ? x.FatherName : "Məlumat Yoxdur",
                     Ünvan=x.Address != null ? x.Address : "Məlumat Yoxdur",
                     Qrup=x.StudentGroup.Number,

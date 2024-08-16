@@ -1,0 +1,920 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\StudentsFormEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|d:\\praktikant\\studentsformend\\studentsform\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\grouplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\grouplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\grouplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\grouplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\grouplist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\grouplist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\helpers\\groupspecialityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\helpers\\groupspecialityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\helpers\\groupteacherhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\helpers\\groupteacherhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\receptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\receptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\receptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\receptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\informationstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\informationstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\informationstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\informationstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\informationstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\informationstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\teacherlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\teacherlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\teacherlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\teacherlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\helpers\\userrolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\helpers\\userrolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\costslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\costslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\costslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\costslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\studentlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\studentlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\cost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\cost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\receptionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\receptionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\roletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\roletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|D:\\Praktikant\\StudentsFormEnd\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFCC730-0DF6-4660-8BA5-B1CBF7F2F0D4}|Entities\\Entities.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Praktikant\\StudentsForm\\DataAccess\\Migrations\\20220326120948_GroupStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\teacherlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\teacherlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|D:\\Praktikant\\StudentsFormEnd\\studentsform\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6938FFB-7B01-4DB6-9058-6AD942CE921B}|StudentsForm\\StudentsForm.csproj|solutionrelative:studentsform\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\migrations\\20220326141029_datesrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20220326141029_datesrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\migrations\\20220328143255_studentadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20220328143255_studentadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\migrations\\20220331072124_issaleandisdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20220331072124_issaleandisdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\migrations\\20220331190934_paymentisdeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20220331190934_paymentisdeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\migrations\\20220404110059_costtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20220404110059_costtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\migrations\\20220404101556_infostudesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20220404101556_infostudesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\migrations\\20220405202354_studentphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20220405202354_studentphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|D:\\Praktikant\\StudentsFormEnd\\dataaccess\\migrations\\20220413212044_interestinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A7B047-B9A8-4561-B762-D3F5277900B9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20220413212044_interestinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupList.cs [Design]",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\GroupList.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\GroupList.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\GroupList.cs [Design]",
+              "RelativeToolTip": "StudentsForm\\GroupList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupList.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\GroupList.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\GroupList.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\GroupList.cs",
+              "RelativeToolTip": "StudentsForm\\GroupList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentList.cs [Design]",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentList.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\StudentList.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentList.cs [Design]",
+              "RelativeToolTip": "StudentsForm\\StudentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentList.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\StudentList.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentList.cs",
+              "RelativeToolTip": "StudentsForm\\StudentList.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAAAiwNEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\StudentDbContext.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\StudentDbContext.cs",
+              "RelativeToolTip": "DataAccess\\StudentDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersForm.cs [Design]",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\UsersForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\UsersForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\UsersForm.cs [Design]",
+              "RelativeToolTip": "StudentsForm\\UsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\AdminForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\AdminForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\AdminForm.cs",
+              "RelativeToolTip": "StudentsForm\\AdminForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupList.Designer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\GroupList.Designer.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\GroupList.Designer.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\GroupList.Designer.cs",
+              "RelativeToolTip": "StudentsForm\\GroupList.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\UsersForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\UsersForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\UsersForm.cs",
+              "RelativeToolTip": "StudentsForm\\UsersForm.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAIwKEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Utilities.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\Utilities.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Utilities.cs",
+              "RelativeToolTip": "StudentsForm\\Utilities.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupSpecialityHelper.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Helpers\\GroupSpecialityHelper.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\Helpers\\GroupSpecialityHelper.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Helpers\\GroupSpecialityHelper.cs",
+              "RelativeToolTip": "StudentsForm\\Helpers\\GroupSpecialityHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroupTeacherHelper.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Helpers\\GroupTeacherHelper.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\Helpers\\GroupTeacherHelper.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Helpers\\GroupTeacherHelper.cs",
+              "RelativeToolTip": "StudentsForm\\Helpers\\GroupTeacherHelper.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\AdminForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\AdminForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\AdminForm.cs",
+              "RelativeToolTip": "StudentsForm\\AdminForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:24.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Speciality.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Speciality.cs",
+              "RelativeDocumentMoniker": "Entities\\Speciality.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Speciality.cs",
+              "RelativeToolTip": "Entities\\Speciality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Dashboard.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\Dashboard.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Dashboard.cs",
+              "RelativeToolTip": "StudentsForm\\Dashboard.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Dashboard.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\Dashboard.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Dashboard.cs",
+              "RelativeToolTip": "StudentsForm\\Dashboard.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20220413212044_InterestInfo.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220413212044_InterestInfo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20220413212044_InterestInfo.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220413212044_InterestInfo.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20220413212044_InterestInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReceptionForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\ReceptionForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\ReceptionForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\ReceptionForm.cs",
+              "RelativeToolTip": "StudentsForm\\ReceptionForm.cs",
+              "ViewState": "AQIAAEcBAAAAAAAAAKBgwE0BAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InformationStudent.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\InformationStudent.cs",
+              "RelativeDocumentMoniker": "Entities\\InformationStudent.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\InformationStudent.cs",
+              "RelativeToolTip": "Entities\\InformationStudent.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReceptionForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\ReceptionForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\ReceptionForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\ReceptionForm.cs",
+              "RelativeToolTip": "StudentsForm\\ReceptionForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InformationStudent.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\InformationStudent.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\InformationStudent.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\InformationStudent.cs",
+              "RelativeToolTip": "StudentsForm\\InformationStudent.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAYwPQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InformationStudent.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\InformationStudent.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\InformationStudent.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\InformationStudent.cs",
+              "RelativeToolTip": "StudentsForm\\InformationStudent.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeacherList.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\TeacherList.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\TeacherList.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\TeacherList.cs",
+              "RelativeToolTip": "StudentsForm\\TeacherList.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeacherList.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\TeacherList.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\TeacherList.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\TeacherList.cs",
+              "RelativeToolTip": "StudentsForm\\TeacherList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\LoginForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\LoginForm.cs",
+              "RelativeToolTip": "StudentsForm\\LoginForm.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\LoginForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\LoginForm.cs",
+              "RelativeToolTip": "StudentsForm\\LoginForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Entities\\Teacher.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRoleHelper.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Helpers\\UserRoleHelper.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\Helpers\\UserRoleHelper.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Helpers\\UserRoleHelper.cs",
+              "RelativeToolTip": "StudentsForm\\Helpers\\UserRoleHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentGroup.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\StudentGroup.cs",
+              "RelativeDocumentMoniker": "Entities\\StudentGroup.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\StudentGroup.cs",
+              "RelativeToolTip": "Entities\\StudentGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\PaymentForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\PaymentForm.cs",
+              "RelativeToolTip": "StudentsForm\\PaymentForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwLIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\PaymentForm.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\PaymentForm.cs",
+              "RelativeToolTip": "StudentsForm\\PaymentForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\AdminForm.Designer.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\AdminForm.Designer.cs",
+              "RelativeToolTip": "StudentsForm\\AdminForm.Designer.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PaymentForm.Designer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\PaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\PaymentForm.Designer.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\PaymentForm.Designer.cs",
+              "RelativeToolTip": "StudentsForm\\PaymentForm.Designer.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAawMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CostsList.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\CostsList.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\CostsList.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\CostsList.cs",
+              "RelativeToolTip": "StudentsForm\\CostsList.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CostsList.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\CostsList.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\CostsList.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\CostsList.cs",
+              "RelativeToolTip": "StudentsForm\\CostsList.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAuwIgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20220405202354_studentPhone.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220405202354_studentPhone.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20220405202354_studentPhone.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220405202354_studentPhone.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20220405202354_studentPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentList.Designer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentList.Designer.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\StudentList.Designer.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\StudentList.Designer.cs",
+              "RelativeToolTip": "StudentsForm\\StudentList.Designer.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAawOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20220404110059_CostTable.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220404110059_CostTable.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20220404110059_CostTable.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220404110059_CostTable.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20220404110059_CostTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Cost.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Cost.cs",
+              "RelativeDocumentMoniker": "Entities\\Cost.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Cost.cs",
+              "RelativeToolTip": "Entities\\Cost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20220404101556_InfoStuDesc.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220404101556_InfoStuDesc.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20220404101556_InfoStuDesc.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220404101556_InfoStuDesc.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20220404101556_InfoStuDesc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20220331190934_paymentIsDeleted.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220331190934_paymentIsDeleted.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20220331190934_paymentIsDeleted.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220331190934_paymentIsDeleted.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20220331190934_paymentIsDeleted.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Entities\\Payment.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Payment.cs",
+              "RelativeToolTip": "Entities\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20220331072124_isSaleAndisDiscount.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220331072124_isSaleAndisDiscount.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20220331072124_isSaleAndisDiscount.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220331072124_isSaleAndisDiscount.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20220331072124_isSaleAndisDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Program.cs",
+              "RelativeToolTip": "StudentsForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReceptionForm.Designer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\ReceptionForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\ReceptionForm.Designer.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\ReceptionForm.Designer.cs",
+              "RelativeToolTip": "StudentsForm\\ReceptionForm.Designer.cs",
+              "ViewState": "AQIAADsCAAAAAAAAAAAnwEsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoleToUser.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\RoleToUser.cs",
+              "RelativeDocumentMoniker": "Entities\\RoleToUser.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\RoleToUser.cs",
+              "RelativeToolTip": "Entities\\RoleToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20220328143255_studentAdress.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220328143255_studentAdress.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20220328143255_studentAdress.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220328143255_studentAdress.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20220328143255_studentAdress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Role.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\Entities\\Role.cs",
+              "RelativeToolTip": "Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20220326141029_DateSRC.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220326141029_DateSRC.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20220326141029_DateSRC.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\DataAccess\\Migrations\\20220326141029_DateSRC.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20220326141029_DateSRC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20220326120948_GroupStudent.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Praktikant\\StudentsForm\\DataAccess\\Migrations\\20220326120948_GroupStudent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Praktikant\\StudentsForm\\DataAccess\\Migrations\\20220326120948_GroupStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-03-26T12:09:49.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\LoginForm.Designer.cs",
+              "RelativeToolTip": "StudentsForm\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAawIcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TeacherList.Designer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\TeacherList.Designer.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\TeacherList.Designer.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\TeacherList.Designer.cs",
+              "RelativeToolTip": "StudentsForm\\TeacherList.Designer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAcwFgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\LoginForm.resx",
+              "RelativeDocumentMoniker": "StudentsForm\\LoginForm.resx",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\LoginForm.resx",
+              "RelativeToolTip": "StudentsForm\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2022-05-21T10:50:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "StudentsForm\\Dashboard.Designer.cs",
+              "ToolTip": "D:\\Praktikant\\StudentsFormEnd\\StudentsForm\\Dashboard.Designer.cs",
+              "RelativeToolTip": "StudentsForm\\Dashboard.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-21T10:50:25.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

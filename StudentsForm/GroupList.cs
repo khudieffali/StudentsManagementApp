@@ -224,6 +224,7 @@ namespace StudentsForm
                 txtNumber.Text = selectedGroup.Number;
                 cmbTeachers.Text = selectedGroup.Teacher.FullName;
                 cmbSpecialities.Text = selectedGroup.Specialities.Name;
+                //dtRegisterGroup.Value = selectedGroup.CreatedDate;
                 dtStart.Value = selectedGroup.StartDate.Value;
             }
             VisibileBtn("a");
